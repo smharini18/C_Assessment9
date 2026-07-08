@@ -7,6 +7,7 @@ int main()
     {
         scanf("%d",&num[j]);
     }
+    
     printf("\nThe Same Number : ");
     for(j=0;j<5;j++)
     {
